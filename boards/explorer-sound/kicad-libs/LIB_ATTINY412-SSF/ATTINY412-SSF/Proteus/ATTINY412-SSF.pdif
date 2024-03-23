@@ -1,0 +1,146 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ATTINY412-SSF"
+   (description "8-bit Microcontrollers - MCU 20MHz, 4KB, SOIC8, Ind 125C, Green, Tube")
+   (family "ANA")
+   (package "SOIC127P600X175-8N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/ATTINY412-SSF.pdf")
+   (attribute "Geometry.Height" "1.75mm")
+   (attribute "Manufacturer_Name" "Microchip")
+   (attribute "Manufacturer_Part_Number" "ATTINY412-SSF")
+   (attribute "Mouser Part Number" "579-ATTINY412-SSF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATTINY412-SSF?qs=3HJ2avRr9PLjr%252BAvU6bmFQ%3D%3D")
+   (attribute "Arrow Part Number" "ATTINY412-SSF")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/attiny412-ssf/microchip-technology?region=nac")
+   (gate
+    (symbol "ATTINY412-SSF")
+    (pin "VDD" 1 PS)
+    (pin "PA6" 2 PS)
+    (pin "PA7" 3 PS)
+    (pin "PA1" 4 PS)
+    (pin "GND" 8 PS)
+    (pin "PA3/EXTCLK" 7 PS)
+    (pin "PA0/$RESET$/UPDI" 6 PS)
+    (pin "PA2" 5 PS)
+   )
+  )
+  (symbol "ATTINY412-SSF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1400 100) (pt 1400 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOIC127P600X175-8N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.725 2.775)
+      (pt 3.725 2.775)
+      (pt 3.725 -2.775)
+      (pt -3.725 -2.775)
+      (pt -3.725 2.775))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.95 2.462)
+      (pt 1.95 2.462)
+      (pt 1.95 -2.462)
+      (pt -1.95 -2.462)
+      (pt -1.95 2.462))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.95 1.192)
+      (pt -0.68 2.462))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 2.462)
+      (pt 1.6 2.462)
+      (pt 1.6 -2.462)
+      (pt -1.6 -2.462)
+      (pt -1.6 2.462))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.475 2.58)
+      (pt -1.95 2.58))))
+   (leg 1 (pt -2.712 1.905) (padstack 0))
+   (leg 2 (pt -2.712 0.635) (padstack 0))
+   (leg 3 (pt -2.712 -0.635) (padstack 0))
+   (leg 4 (pt -2.712 -1.905) (padstack 0))
+   (leg 5 (pt 2.712 -1.905) (padstack 0))
+   (leg 6 (pt 2.712 -0.635) (padstack 0))
+   (leg 7 (pt 2.712 0.635) (padstack 0))
+   (leg 8 (pt 2.712 1.905) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.65 1.525 0 0 0))
+   )
+   (model "ATTINY412-SSF.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

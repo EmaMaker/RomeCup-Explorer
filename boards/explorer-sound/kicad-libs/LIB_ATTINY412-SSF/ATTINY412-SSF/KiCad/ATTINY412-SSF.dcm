@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATTINY412-SSF
+D 8-bit Microcontrollers - MCU 20MHz, 4KB, SOIC8, Ind 125C, Green, Tube
+K
+F https://componentsearchengine.com/Datasheets/1/ATTINY412-SSF.pdf
+$ENDCMP
+#
+#End Doc Library

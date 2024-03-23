@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=ATTINY412-SSF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2019-11-12 08:19:11
+Downloaded=2024-02-27 18:27:28
+3D=Y

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ATTINY412-SSF")(type "KiCad")(uri "${KIPRJMOD}/kicad-libs/LIB_ATTINY412-SSF/ATTINY412-SSF/KiCad")(options "")(descr ""))
+  (lib (name "LM386M-1_NOPB")(type "KiCad")(uri "${KIPRJMOD}/kicad-libs/LIB_LM386M-1_NOPB/LM386M-1_NOPB/KiCad")(options "")(descr ""))
+)

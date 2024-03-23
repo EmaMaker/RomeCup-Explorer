@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ATTINY412_SSF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "ATTINY412-SSF" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "579-ATTINY412-SSF", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATTINY412-SSF?qs=3HJ2avRr9PLjr%252BAvU6bmFQ%3D%3D", "ATTINY412-SSF", "https://www.arrow.com/en/products/attiny412-ssf/microchip-technology?region=nac", "8-bit Microcontrollers - MCU 20MHz, 4KB, SOIC8, Ind 125C, Green, Tube", "https://componentsearchengine.com/Datasheets/1/ATTINY412-SSF.pdf", "1.75 mm"
+END_PART
+
+END.

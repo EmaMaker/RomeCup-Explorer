@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM386M-1/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=5.1
+Released=2015-04-13 16:14:32
+Downloaded=2024-02-27 18:36:11
+3D=Y

@@ -1,0 +1,18 @@
+.ATTINY412-SSF :1 ;8-bit Microcontrollers - MCU 20MHz, 4KB, SOIC8, Ind 125C, Green, Tube
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="VDD" 2="PA6" 3="PA7" 4="PA1" 5="PA2" 6="PA0/'RESET'/UPDI" 7="PA3/EXTCLK" 8="GND"
+*MXP 8
+*DFN ATTINY412-SSF
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (ATTINY412-SSF)
+~!Mouser Part Number (579-ATTINY412-SSF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATTINY412-SSF?qs=3HJ2avRr9PLjr%252BAvU6bmFQ%3D%3D)
+~!Arrow Part Number (ATTINY412-SSF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/attiny412-ssf/microchip-technology?region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/ATTINY412-SSF.pdf)
+~!Height (1.75mm)
+~!3D_Model (ATTINY412-SSF)
+ATTINY412-SSF
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 
