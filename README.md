@@ -29,5 +29,5 @@ To follow this route, we decided to have each hotspot have its own PCB to genera
    the sound boards. 
 
 If you want to know more about the thought process and design decisions for the playfield, or about
-the RoboCup 2024 event in general, I have written a [blog post](https://emamaker.com/events/romecup2024.md)
+the RoboCup 2024 event in general, I have written a [blog post](https://emamaker.com/events/romecup2024)
 about it.
